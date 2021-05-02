@@ -8,7 +8,7 @@ The allowed contributor must update the following commit history when you updati
 
 ## BoringdroidSystemUI
 
-commit 10f557ac272acd0637e358ea0f9a1d29909090f5
+commit a9a7113bc13bf81bc9a472d5ef45046ff320d129
 
 ## BoringdroidSettings
 
