@@ -12,4 +12,4 @@ commit 49d945950aa1c90309c6be16cb900cc6b68cf697
 
 ## BoringdroidSettings
 
-commit 2073db9af33e1ad440b4f1b20044062380d24a0a
+commit 3a637252cf8abd0d66491c36be4c00dc7f15146a
